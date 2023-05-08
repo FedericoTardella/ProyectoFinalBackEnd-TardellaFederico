@@ -1,0 +1,25 @@
+{
+  "name": "proyectobackend",
+  "version": "1.0.0",
+  "description": "proyecto final de back end ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./src/server.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedericoTardella/ProyectoFinalBackEnd-TardellaFederico.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FedericoTardella/ProyectoFinalBackEnd-TardellaFederico/issues"
+  },
+  "homepage": "https://github.com/FedericoTardella/ProyectoFinalBackEnd-TardellaFederico#readme"
+}
