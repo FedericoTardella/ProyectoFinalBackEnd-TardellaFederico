@@ -1,12 +1,12 @@
 [
     {
-    "id": 2,
-    "title": "Mate Calabaza",
-    "desc": "Mate calabaza con bombilla",
-    "price": 9999,
-    "thumbnail": "https://matesibarra.com/wp-content/uploads/2021/06/linea-m.jpg",
-    "code": "76237-228",
-    "stock": 14
+        "id": 2,
+        "title": "Mate Calabaza",
+        "desc": "Mate calabaza con bombilla",
+        "price": 9999,
+        "thumbnail": "https://matesibarra.com/wp-content/uploads/2021/06/linea-m.jpg",
+        "code": "76237-228",
+        "stock": 14
     }
     {
         "id": 3,
