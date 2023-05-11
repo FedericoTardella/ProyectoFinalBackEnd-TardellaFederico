@@ -1,20 +1,13 @@
 [
-    {
-    "id": 2,
-    "title": "Mate Calabaza",
-    "desc": "Mate calabaza con bombilla",
-    "price": 9999,
-    "thumbnail": "https://matesibarra.com/wp-content/uploads/2021/06/linea-m.jpg",
-    "code": "76237-228",
-    "stock": 14
-    }
-    {
-        "id": 3,
-        "title": "Mate Autocebante",
-        "description": "mate autocebante de plastico con bombilla",
-        "price": 3000,
-        "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/862/035/products/azul11-f2e32da6c63659fce715853274463046-640-01-bb23e6a10d9636597316216205320385-640-0.png",
-        "code": "76237-228",
-        "stock": 14
-    }
+  {
+    "title": "434 id random",
+    "desc": "id random 3333 prueba",
+    "code": "22322-123",
+    "price": 1555,
+    "stock": 20,
+    "category": "termo",
+    "thumbnail": "urltermo",
+    "id": "8623611479218749",
+    "status": true
+  }
 ]
