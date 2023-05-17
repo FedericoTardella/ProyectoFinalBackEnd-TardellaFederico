@@ -51,7 +51,7 @@ carritosRouter.get("/:cid", async (req, res) => {
     }
 })
 
-carritosRouter.post("/:cid/productos/:pid", async (req, res) => {
+carritosRouter.post("/:cid/product/:pid", async (req, res) => {
     try{
         const dataCarritos = await carritos.getCarts()
         const dataProductos = await productos.getProducts()

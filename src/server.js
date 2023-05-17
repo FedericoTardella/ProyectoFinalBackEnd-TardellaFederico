@@ -8,8 +8,8 @@ const port = 8080;
 app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 
-app.use("/api/productos", productoRouter)
-app.use("/api/carritos", carritosRouter)
+app.use("/api/products", productoRouter)
+app.use("/api/carts", carritosRouter)
 
 
 

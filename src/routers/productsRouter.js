@@ -45,7 +45,7 @@ productoRouter.post("/", async (req, res) => {
                 msg: "el producto ya existe",
             })
         }
-    const camposObligatorios = ["title", "desc", "code", "price", "stock", "category", "thumbnail"]
+    const camposObligatorios = ["title", "description", "code", "price", "stock", "category", "thumbnails"]
     const allCampos = camposObligatorios.every(prop => nuevoProducto[prop]);
     if (nuevoProducto.id == undefined && allCampos){
         nuevoProducto = 
